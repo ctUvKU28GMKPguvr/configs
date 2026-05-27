@@ -1,0 +1,11 @@
+DOMAIN-SUFFIX,paysera.com
+DOMAIN-SUFFIX,paysera.lt
+DOMAIN-SUFFIX,paysera.lv
+DOMAIN-SUFFIX,paysera.bg
+DOMAIN-SUFFIX,paysera.ee
+DOMAIN-SUFFIX,paysera.pl
+DOMAIN-SUFFIX,paysera.es
+DOMAIN-SUFFIX,paysera.de
+DOMAIN-SUFFIX,paysera.ro
+DOMAIN-SUFFIX,paysera.al
+DOMAIN-SUFFIX,paysera.ge
