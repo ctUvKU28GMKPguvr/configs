@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,ifconfig.io
 DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,novofon.ru
 DOMAIN-SUFFIX,novofon.com
-DOMAIN-SUFFIX,37.139.38.0/24
+IP-CIDR,37.139.38.0/24
 DOMAIN-SUFFIX,tricolor.tv
 DOMAIN-SUFFIX,tricolor.ru
 DOMAIN-SUFFIX,ottgoods.ru
