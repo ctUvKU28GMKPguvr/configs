@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,ivi.ru
 DOMAIN-SUFFIX,okko.tv
 DOMAIN-SUFFIX,okko.ru
 DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,cdnvideo.ru
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,okko.team
 DOMAIN-SUFFIX,yotaplay.ru
