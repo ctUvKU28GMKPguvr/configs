@@ -1,0 +1,5 @@
+mega.nz
+mega.io
+mega.co.nz
+IP-CIDR,185.206.24.0/24
+IP-CIDR,37.252.5.0/24
