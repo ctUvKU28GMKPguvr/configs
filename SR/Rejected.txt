@@ -1,0 +1,5 @@
+DOMAIN-KEYWORD,paysera
+DOMAIN-KEYWORD,luminor
+DOMAIN-KEYWORD,revolut
+DOMAIN-SUFFIX,latvija.gov.lv
+DOMAIN-SUFFIX,latvija.lv
