@@ -8,6 +8,7 @@
 3dsecure.vtb.ru
 5ka.ru
 5post.market
+74.ru
 acquiring.tinkoff.ru
 acs.alfabank.ru
 acs.gazprombank.ru
@@ -78,6 +79,7 @@ cdnvideo.net
 cdnvideo.ru
 chel.ru
 chelyabinsk.ru
+chelinvest.ru
 chita.ru
 chizhik.club
 chizhik.ru
